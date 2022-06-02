@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Geeks_4_Geeks",
+    "slug": "Geeks_4_Geeks",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
